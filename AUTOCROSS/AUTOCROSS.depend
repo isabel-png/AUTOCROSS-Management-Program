@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586362751 source:c:\users\user\documents\com sci\autocross\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AUTOCROSS.H"
+
+1586362751 c:\users\user\documents\com sci\autocross\autocross.h
+
+1586362819 source:c:\users\user\documents\com sci\autocross\autocross.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AUTOCROSS.H"
+
